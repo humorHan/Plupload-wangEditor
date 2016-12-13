@@ -1,0 +1,2 @@
+webpackJsonp([15],{229:function(e,t,o){var n,s;n=o(230),s=o(231),e.exports=n||{},e.exports.__esModule&&(e.exports=e.exports["default"]),s&&(("function"==typeof e.exports?e.exports.options:e.exports).template=s)},230:function(e,t){"use strict";Object.defineProperty(t,"__esModule",{value:!0}),t["default"]={name:"CaseManagementView",data:function(){return{}}}},231:function(e,t){e.exports=" <div> </div> "}});
+//# sourceMappingURL=15.js.map?eedac9026f9c1fe791be
