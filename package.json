@@ -4,6 +4,11 @@
     "dev": "webpack-dev-server --inline --hot --quiet",
     "build": "cross-env NODE_ENV=production webpack --progress --hide-modules"
   },
+  keywords:[
+    "Plupload",
+    "wangEditor",
+    "plupload-wangEditor"
+  ],
   "dependencies": {
     "es6-promise": "^3.0.2",
     "pingpp-js": "^2.1.5",
