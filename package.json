@@ -4,7 +4,7 @@
     "dev": "webpack-dev-server --inline --hot --quiet",
     "build": "cross-env NODE_ENV=production webpack --progress --hide-modules"
   },
-  keywords:[
+  "keywords":[
     "Plupload",
     "wangEditor",
     "plupload-wangEditor"
